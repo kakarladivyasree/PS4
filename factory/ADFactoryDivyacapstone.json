@@ -1,0 +1,9 @@
+{
+	"name": "ADFactoryDivyacapstone",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c0321298-a4ed-42e5-a12e-b56f6c2b39cc",
+		"tenantId": "2d2199a8-cb98-4269-b2ae-c63cf2b7c7f0"
+	}
+}
